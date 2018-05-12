@@ -1,0 +1,28 @@
+_repo: Man-and-His-Migrations_44605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44605-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Latham, R. G. (Robert Gordon)
+    alias: Latham, Robert Gordon
+    birthdate: 1812
+    deathdate: 1888
+    gutenberg_agent_id: '33334'
+    url: http://www.gutenberg.org/2009/agents/33334
+description: ''
+gutenberg_issued: '2014-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GN'
+- !lcsh 'Human beings -- Migrations'
+- !lcsh 'Ethnology'
+title: Man and His Migrations
+url: http://www.gutenberg.org/ebooks/44605
